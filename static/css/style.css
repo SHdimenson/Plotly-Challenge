@@ -1,0 +1,11 @@
+.panel-body ul {
+    padding: 0px;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.row {
+    padding-bottom: 10px;
+}
